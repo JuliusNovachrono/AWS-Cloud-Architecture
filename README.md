@@ -41,9 +41,9 @@ Implemented backend API calls to handle CORS limitations, parse JSON responses, 
 # Impact
 This project demonstrates the ability to design and deploy production-style cloud systems, combining infrastructure, backend services, and frontend integration. It highlights strong fundamentals in distributed systems, API design, and secure cloud architecture, aligned with real-world engineering practices.
 
-##Key Achievements:
+## Key Achievements:
 
-• Deployed multi-tier architecture with secure networking
-• Implemented least-privilege IAM policies
-• Configured automated monitoring and alerting
+* Deployed multi-tier architecture with secure networking
+* Implemented least-privilege IAM policies
+* Configured automated monitoring and alerting
 
